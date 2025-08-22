@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+}
+.btn{
+    background-color: #0000000D;
+    border-radius: 30px;
+    padding: 11px 16px;
+    display: inline-flex;
+    margin-right: 16px;
+    border: none;
+    
+}
