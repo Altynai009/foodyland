@@ -34,7 +34,7 @@ const HomeBanner = () => {
                             <p>15 March 2022</p>
                         </div>
                     </div>
-                    <div>
+                    <div className={styles.view}>
                         <button>
                             <span>View Recipes</span>
                             <img src={view} alt="view" />

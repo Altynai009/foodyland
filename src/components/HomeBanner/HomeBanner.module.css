@@ -29,6 +29,7 @@
         display: inline-flex;
         align-items: center;
         gap: 10px;
+        
     }
 }
 
@@ -54,12 +55,15 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 100px;
+    
 }
 
 .img {
     width: 660px;
+    height: 665px;
 
     img {
         width: 100%;
     }
 }
+
